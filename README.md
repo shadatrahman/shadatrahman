@@ -1,7 +1,7 @@
 # Hello, I am Shadat👋 
 ## A software engineer.
 
-<p align="left"> <img src="https://komarev.com/ghpvc/?username=mdshadatrahman&label=Profile%20views&color=0e75b6&style=flat" alt="mdshadatrahman" /> </p>
+<p align="left"> <img src="https://komarev.com/ghpvc/?username=shadatrahman&label=Profile%20views&color=0e75b6&style=flat" alt="mdshadatrahman" /> </p>
 
 
 --- 
