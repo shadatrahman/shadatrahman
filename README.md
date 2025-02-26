@@ -1,9 +1,6 @@
 # Hello, I am Shadat👋 
 ## A software engineer.
 
-<p align="left"> <img src="https://komarev.com/ghpvc/?username=shadatrahman&label=Profile%20views&color=0e75b6&style=flat" alt="shadatrahman" /> </p>
-
-
 --- 
 [![](http://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=shadatrahman&theme=tokyonight)](https://github.com/vn7n24fzkq/github-profile-summary-cards)
   
